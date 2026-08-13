@@ -1,0 +1,15 @@
+{
+  "name": "trimmed-visible-layer-exporter",
+  "displayName": "Trimmed Visible Layer Exporter",
+  "description": "Exports each visible pixel layer in the current frame as a tightly cropped PNG with JSON position metadata.",
+  "version": "1.0.1",
+  "author": { "name": "Independent Game Tools" },
+  "publisher": "independent-game-tools",
+  "license": "MIT",
+  "categories": ["Scripts"],
+  "contributes": {
+    "scripts": [
+      { "path": "./export-visible-layers.lua" }
+    ]
+  }
+}

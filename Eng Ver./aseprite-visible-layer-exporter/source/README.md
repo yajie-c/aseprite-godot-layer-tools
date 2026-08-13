@@ -16,3 +16,7 @@ If double-clicking does not open Aseprite: open **Aseprite > Preferences > Exten
 3. Choose where to save `layers.json`. The cropped PNG files are saved beside it.
 
 Only visible pixel layers in the current frame are exported. Hidden layers, hidden groups, groups themselves, and empty layers are skipped.
+
+## License & Disclaimer
+
+Licensed under the [MIT License](../../../LICENSE). This software is provided "AS IS", without warranty of any kind. Back up your files before use; use it at your own risk.

@@ -3,7 +3,7 @@
   "displayName": "Trimmed Visible Layer Exporter",
   "description": "Exports each visible pixel layer in the current frame as a tightly cropped PNG with JSON position metadata.",
   "version": "1.0.1",
-  "author": { "name": "Independent Game Tools" },
+  "author": { "name": "Yajie" },
   "publisher": "independent-game-tools",
   "license": "MIT",
   "categories": ["Scripts"],

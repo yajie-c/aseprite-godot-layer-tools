@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Provided "AS IS". Back up your files before use. Use at your own risk.
+
 @tool
 extends Node2D
 ## Rebuilds this Node2D's Aseprite composition from a layers.json export.

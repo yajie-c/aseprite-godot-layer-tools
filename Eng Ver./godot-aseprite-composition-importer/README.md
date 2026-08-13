@@ -37,3 +37,7 @@ res://
 - 输出按照 Aseprite 图层从底到顶的顺序绘制。
 - 自动生成的 `Sprite2D` 使用最近邻过滤（Nearest），适合像素画。
 - 生成节点的坐标以根 `Node2D` 左上角为 `(0, 0)`。若需要移动整张 composition，只移动根节点即可。
+
+## License & Disclaimer
+
+Licensed under the [MIT License](../../LICENSE). This software is provided "AS IS", without warranty of any kind. Back up your files before use; use it at your own risk.

@@ -1,3 +1,6 @@
+-- SPDX-License-Identifier: MIT
+-- 软件按原样提供；使用前请备份文件，风险由使用者自行承担。
+
 -- Trimmed Visible Layer Exporter for Aseprite
 -- Exports visible pixel layers from the current frame as tightly cropped PNGs.
 

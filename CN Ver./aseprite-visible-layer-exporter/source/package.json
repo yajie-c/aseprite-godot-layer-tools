@@ -3,7 +3,7 @@
   "displayName": "可见图层裁剪导出器",
   "description": "将当前帧中的每个可见像素图层导出为自动裁剪的 PNG，并附带 JSON 坐标信息。",
   "version": "1.0.1",
-  "author": { "name": "Independent Game Tools" },
+  "author": { "name": "Yajie" },
   "publisher": "independent-game-tools-cn",
   "license": "MIT",
   "categories": ["Scripts"],
